@@ -1,6 +1,6 @@
 # Playlist Manager
 
-**Author:** Sebastian
+**Author:** Sebastian Rodriguez
 
 ## Introduction
 
@@ -12,7 +12,7 @@ Playlist Manager is a simple React application that lets you organize your favor
 - **View** all songs displayed as a list
 - **Edit** existing songs to update their details
 - **Delete** songs from the playlist
-- **Genre Summary** powered by `reduce` to count songs per genre
+- **Genre Summary** `reduce` to count songs per genre
 
 ## Components
 
