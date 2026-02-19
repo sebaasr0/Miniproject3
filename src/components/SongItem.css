@@ -33,7 +33,7 @@
 
 .song-genre {
   font-size: 0.8rem;
-  color: #8b5cf6;
+  color: #FAF2A1;
   font-weight: 500;
 }
 
@@ -43,9 +43,9 @@
 }
 
 .btn-edit {
-  background: rgba(99, 102, 241, 0.25);
-  color: #a5b4fc;
-  border: 1px solid rgba(99, 102, 241, 0.4);
+  background: rgba(250, 242, 161, 0.12);
+  color: #FAF2A1;
+  border: 1px solid rgba(250, 242, 161, 0.3);
   padding: 0.4rem 0.9rem;
   border-radius: 8px;
   font-size: 0.85rem;
@@ -54,7 +54,7 @@
 }
 
 .btn-edit:hover {
-  background: rgba(99, 102, 241, 0.4);
+  background: rgba(250, 242, 161, 0.25);
 }
 
 .btn-delete {

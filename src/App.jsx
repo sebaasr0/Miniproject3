@@ -4,11 +4,7 @@ import SongList from "./components/SongList";
 import "./App.css";
 
 function App() {
-  const [songs, setSongs] = useState([
-    { id: 1, name: "Blinding Lights", artist: "The Weeknd", genre: "Pop" },
-    { id: 2, name: "Bohemian Rhapsody", artist: "Queen", genre: "Rock" },
-    { id: 3, name: "Lose Yourself", artist: "Eminem", genre: "Hip-Hop" },
-  ]);
+  const [songs, setSongs] = useState([]);
   const [editingSong, setEditingSong] = useState(null);
 
   const addSong = (song) => {

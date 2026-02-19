@@ -9,7 +9,7 @@
 
 .playlist-form h2 {
   margin-bottom: 1.25rem;
-  color: #e0d4fd;
+  color: #FAF2A1;
   font-size: 1.3rem;
 }
 
@@ -41,7 +41,7 @@
 }
 
 .form-group input:focus {
-  border-color: #a855f7;
+  border-color: #FAF2A1;
 }
 
 .form-buttons {
@@ -66,8 +66,8 @@
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, #a855f7, #6366f1);
-  color: #fff;
+  background: #FAF2A1;
+  color: #1a1a22;
   flex: 1;
 }
 
